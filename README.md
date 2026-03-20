@@ -1,45 +1,47 @@
-# Sales Profitability & Discount Impact 📊
+# Sales Profitability & Discount Impact
 
 Understanding why strong sales are not translating into profit.
 
 ---
 
-## 📌 Project Overview
+## Overview
 
-This project analyzes the relationship between discounting strategies and profitability using the Superstore Sales dataset in Oracle Analytics Cloud (OAC).
+This project analyzes how discount strategies affect profitability using the Superstore dataset in Oracle Analytics Cloud (OAC).
 
-While overall sales performance appears strong, the analysis reveals that higher discount levels are consistently associated with declining profit margins.
+While sales performance appears strong, the analysis shows that increasing discount levels are consistently linked to lower profit margins across categories and products.
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 ![Dashboard](./dashboard.png)
 
 ---
 
-## 🔍 Key Insights
+## Insights
 
-- Higher discount levels are associated with reduced profitability  
-- The Furniture category contributes significantly to overall losses  
-- Certain products consistently generate negative profit  
-
----
-
-## 🛠 Tools Used
-
-- Oracle Analytics Cloud (OAC)  
-- Superstore Sales Dataset  
+• Higher discount levels are directly impacting profitability  
+• Furniture category contributes the most to losses  
+• A few products consistently show negative profit  
 
 ---
 
-## 📈 Business Impact
+## What this means
 
-This analysis helps identify areas where pricing strategies impact profitability and supports better decision-making.
+• Discounting needs to be controlled, especially beyond certain thresholds  
+• Furniture category requires closer pricing and cost evaluation  
+• Loss-making products need review or repositioning  
 
 ---
 
-## 📂 Files in Repository
+## Tools Used
 
-- `dashboard.png` – Visualization output  
-- `Sales_Profitability_Discount_Impact.dva` – Oracle Analytics workbook  
+• Oracle Analytics Cloud (OAC)  
+• Superstore Sales Dataset  
+
+---
+
+## Files
+
+• dashboard.png – dashboard snapshot  
+• Sales_Profitability_Discount_Impact.dva – OAC workbook  
