@@ -14,7 +14,7 @@ While sales performance appears strong, the analysis shows that increasing disco
 
 ## Dashboard Preview
 
-![Dashboard](./dashboard.png)
+![Dashboard](./discount-impact-profitability.png)
 
 ---
 
