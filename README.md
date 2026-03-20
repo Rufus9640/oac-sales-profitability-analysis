@@ -40,12 +40,11 @@ While sales performance appears strong, the analysis shows that increasing disco
 • Superstore Sales Dataset  
 
 ---
-## Problem Statement
-
-Despite strong sales performance, profit margins remain low.  
-This project investigates how discount strategies are affecting profitability across categories and products.
-
 ## Files
 
 • dashboard.png – dashboard snapshot  
 • Sales_Profitability_Discount_Impact.dva – OAC workbook  
+## Problem Statement
+
+Despite strong sales performance, profit margins remain low.  
+This project investigates how discount strategies are affecting profitability across categories and products.
